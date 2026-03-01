@@ -64,18 +64,3 @@ From the analysis:
 |------|-------------|
 | `retail_analysis.sql` | SQL script containing all queries used for cleaning and analysis |
 | `README.md` | Project documentation and insights |
-
----
-
-## 🧪 How to Run This (Optional)
-
-1. Create a PostgreSQL database
-2. Import the original dataset CSV into a table named `online_retail`
-3. Run the SQL script `retail_analysis.sql` step by step
-4. View results of each query for insights
-
----
-
-## ❓ Questions or Feedback
-
-Feel free to open an issue if you have suggestions or questions!
